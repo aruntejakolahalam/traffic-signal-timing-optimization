@@ -1,0 +1,5 @@
+- Traffic flow data is assumed to be accurate and representative of real urban conditions.
+- The model focuses on selected intersections and does not cover an entire city network.
+- External factors such as accidents, weather, and pedestrian flow are not considered.
+- Optimisation results are based on historical and simulated data.
+- Real-time signal adaptation and live sensor data are outside the scope of this analysis.
