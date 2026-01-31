@@ -36,5 +36,10 @@ support smarter urban traffic management.
 ## Skills Demonstrated
 - Data analysis and optimisation techniques
 - Network and graph-based modelling
-- Python programming and analytical workflows
+- Python programming and analytical
+  
+## Additional Documents
+- Insights_Summary.md – Key findings and analytical insights from the optimisation study  
+- Assumptions_and_Limitations.md – Model assumptions, scope, and analytical constraints  
+- Future_Improvements.md – Potential enhancements and next steps for the project   workflows
 - Problem-solving applied to urban systems
